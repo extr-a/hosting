@@ -1,0 +1,6 @@
+# The launcher verifies the RSA signature over the EXACT bytes of bootstrap.json.
+# Any EOL conversion after signing would break verification, so disable it here.
+bootstrap.json        -text
+bootstrap.json.sha256 -text binary
+*.jar                 binary
+publish-bootstrap.sh  text eol=lf

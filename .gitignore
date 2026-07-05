@@ -1,0 +1,4 @@
+# Local build/signing tooling — not served by Pages
+*.ps1
+.dump-cp.init.gradle.kts
+.client-classpath.txt
