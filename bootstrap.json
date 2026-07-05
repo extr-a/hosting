@@ -2,151 +2,151 @@
   "artifacts": [
     {
       "name": "client-1.12.32-SNAPSHOT.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/client/1.12.32-SNAPSHOT/client-1.12.32-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.32-SNAPSHOT/client-1.12.32-SNAPSHOT.jar",
       "hash": "f51842c9a396ef98c51cc14846f3f6dc67edbbce6e3db81a66677a3ae78724f4",
       "size": 5689447
     },
     {
       "name": "aopalliance-1.0.jar",
-      "path": "https://extr-a.github.io/hosting/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
       "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
       "size": 4467
     },
     {
       "name": "logback-classic-1.2.9.jar",
-      "path": "https://extr-a.github.io/hosting/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
       "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
       "size": 233855
     },
     {
       "name": "logback-core-1.2.9.jar",
-      "path": "https://extr-a.github.io/hosting/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
       "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
       "size": 454201
     },
     {
       "name": "autocomplete-3.1.1.jar",
-      "path": "https://extr-a.github.io/hosting/com/fifesoft/autocomplete/3.1.1/autocomplete-3.1.1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/fifesoft/autocomplete/3.1.1/autocomplete-3.1.1.jar",
       "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
       "size": 153177
     },
     {
       "name": "rsyntaxtextarea-3.1.2.jar",
-      "path": "https://extr-a.github.io/hosting/com/fifesoft/rsyntaxtextarea/3.1.2/rsyntaxtextarea-3.1.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/fifesoft/rsyntaxtextarea/3.1.2/rsyntaxtextarea-3.1.2.jar",
       "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
       "size": 1209918
     },
     {
       "name": "jsvg-1.2.0.jar",
-      "path": "https://extr-a.github.io/hosting/com/github/weisj/jsvg/1.2.0/jsvg-1.2.0.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/github/weisj/jsvg/1.2.0/jsvg-1.2.0.jar",
       "hash": "912f37d85deaaf5b747700f5bd3761a93b14a5161900e7436cff386b6176118a",
       "size": 499132
     },
     {
       "name": "jsr305-3.0.2.jar",
-      "path": "https://extr-a.github.io/hosting/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
       "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
       "size": 19936
     },
     {
       "name": "gson-2.8.5.jar",
-      "path": "https://extr-a.github.io/hosting/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
       "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
       "size": 241622
     },
     {
       "name": "guava-23.2-jre.jar",
-      "path": "https://extr-a.github.io/hosting/com/google/guava/guava/23.2-jre/guava-23.2-jre.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/google/guava/guava/23.2-jre/guava-23.2-jre.jar",
       "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
       "size": 2649860
     },
     {
       "name": "guice-4.1.0-no_aop.jar",
-      "path": "https://extr-a.github.io/hosting/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar",
       "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
       "size": 428603
     },
     {
       "name": "protobuf-javalite-3.21.12.jar",
-      "path": "https://extr-a.github.io/hosting/com/google/protobuf/protobuf-javalite/3.21.12/protobuf-javalite-3.21.12.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/google/protobuf/protobuf-javalite/3.21.12/protobuf-javalite-3.21.12.jar",
       "hash": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
       "size": 703181
     },
     {
       "name": "okhttp-3.14.9.jar",
-      "path": "https://extr-a.github.io/hosting/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar",
       "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
       "size": 430488
     },
     {
       "name": "okio-1.17.2.jar",
-      "path": "https://extr-a.github.io/hosting/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
       "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
       "size": 91980
     },
     {
       "name": "javax.inject-1.jar",
-      "path": "https://extr-a.github.io/hosting/javax/inject/javax.inject/1/javax.inject-1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/javax/inject/javax.inject/1/javax.inject-1.jar",
       "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
       "size": 2497
     },
     {
       "name": "jna-platform-5.9.0.jar",
-      "path": "https://extr-a.github.io/hosting/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
       "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
       "size": 1343236
     },
     {
       "name": "jna-5.9.0.jar",
-      "path": "https://extr-a.github.io/hosting/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
       "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
       "size": 1729586
     },
     {
       "name": "http-api-1.2.23.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/arn/http-api/1.2.23/http-api-1.2.23.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/arn/http-api/1.2.23/http-api-1.2.23.jar",
       "hash": "afefa5239fb6e437f93cc41c54f3030cf7b1663397a6b34f1bbe3065114c9b66",
       "size": 40904
     },
     {
       "name": "discord-1.4.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/discord/1.4/discord-1.4.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/discord/1.4/discord-1.4.jar",
       "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
       "size": 681590
     },
     {
       "name": "flatlaf-extras-3.2.5-rl4.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/flatlaf-extras/3.2.5-rl4/flatlaf-extras-3.2.5-rl4.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/flatlaf-extras/3.2.5-rl4/flatlaf-extras-3.2.5-rl4.jar",
       "hash": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
       "size": 114738
     },
     {
       "name": "flatlaf-3.2.5-rl4.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/flatlaf/3.2.5-rl4/flatlaf-3.2.5-rl4.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/flatlaf/3.2.5-rl4/flatlaf-3.2.5-rl4.jar",
       "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
       "size": 792432
     },
     {
       "name": "injected-client-1.12.32-SNAPSHOT.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/injected-client/1.12.32-SNAPSHOT/injected-client-1.12.32-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.12.32-SNAPSHOT/injected-client-1.12.32-SNAPSHOT.jar",
       "hash": "50bc3f4a5e0bbbee9507f6cfe3af4cacad0be3c4edb7430cdbb156f43ff60f4e",
       "size": 4238343
     },
     {
       "name": "jshell-1.12.32-SNAPSHOT.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/jshell/1.12.32-SNAPSHOT/jshell-1.12.32-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/jshell/1.12.32-SNAPSHOT/jshell-1.12.32-SNAPSHOT.jar",
       "hash": "f1eb1586e05231602da756fdef3a6af8cb5910cab81d6b227d88366e13a8b1a7",
       "size": 23093
     },
     {
       "name": "rlawt-1.8.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/rlawt/1.8/rlawt-1.8.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/rlawt/1.8/rlawt-1.8.jar",
       "hash": "24f9b6d77d8de814a8dacddf9c4e2227da70459375ca72cc961ae81d33eff75a",
       "size": 237113
     },
     {
       "name": "rlicn-1.1-windows.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/rlicn/1.1/rlicn-1.1-windows.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/rlicn/1.1/rlicn-1.1-windows.jar",
       "hash": "6c7627e53af6b1c56f3cff532fc9b9496d93e1cac655ec506c8f01e7608e69ef",
       "size": 168875,
       "platform": [
@@ -157,49 +157,49 @@
     },
     {
       "name": "runelite-api-1.12.32-SNAPSHOT.jar",
-      "path": "https://extr-a.github.io/hosting/net/runelite/runelite-api/1.12.32-SNAPSHOT/runelite-api-1.12.32-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/runelite-api/1.12.32-SNAPSHOT/runelite-api-1.12.32-SNAPSHOT.jar",
       "hash": "102c29b1f90750fdc31846cdb981e4a496aeccaf798086b3e01d2540a97776ba",
       "size": 5299743
     },
     {
       "name": "jopt-simple-5.0.1.jar",
-      "path": "https://extr-a.github.io/hosting/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
       "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
       "size": 78826
     },
     {
       "name": "commons-lang3-3.7.jar",
-      "path": "https://extr-a.github.io/hosting/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar",
       "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
       "size": 499634
     },
     {
       "name": "commons-text-1.2.jar",
-      "path": "https://extr-a.github.io/hosting/org/apache/commons/commons-text/1.2/commons-text-1.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/apache/commons/commons-text/1.2/commons-text-1.2.jar",
       "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
       "size": 136544
     },
     {
       "name": "json-20090211.jar",
-      "path": "https://extr-a.github.io/hosting/org/json/json/20090211/json-20090211.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/json/json/20090211/json-20090211.jar",
       "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
       "size": 45944
     },
     {
       "name": "lwjgl-opencl-3.3.2.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
       "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
       "size": 238152
     },
     {
       "name": "lwjgl-opengl-3.3.2.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
       "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
       "size": 928871
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
       "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
       "size": 58627,
       "platform": [
@@ -211,7 +211,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-linux.jar",
       "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
       "size": 80464,
       "platform": [
@@ -222,7 +222,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
       "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
       "size": 42490,
       "platform": [
@@ -234,7 +234,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-macos.jar",
       "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
       "size": 41485,
       "platform": [
@@ -245,7 +245,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
       "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
       "size": 83132,
       "platform": [
@@ -257,7 +257,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
       "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
       "size": 88610,
       "platform": [
@@ -269,7 +269,7 @@
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows.jar",
       "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
       "size": 101530,
       "platform": [
@@ -280,13 +280,13 @@
     },
     {
       "name": "lwjgl-3.3.2.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
       "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
       "size": 786196
     },
     {
       "name": "lwjgl-3.3.2-natives-linux-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux-arm64.jar",
       "hash": "f4f4c13cd70224ec443753837f6652ec7ed11c5857ffc3e7d03e216aef6e663b",
       "size": 90795,
       "platform": [
@@ -298,7 +298,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-linux.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-linux.jar",
       "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
       "size": 114144,
       "platform": [
@@ -309,7 +309,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-macos-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-macos-arm64.jar",
       "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
       "size": 48270,
       "platform": [
@@ -321,7 +321,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-macos.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-macos.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-macos.jar",
       "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
       "size": 60240,
       "platform": [
@@ -332,7 +332,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-windows-arm64.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-arm64.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-arm64.jar",
       "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
       "size": 133200,
       "platform": [
@@ -344,7 +344,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-windows-x86.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-x86.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-x86.jar",
       "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
       "size": 139365,
       "platform": [
@@ -356,7 +356,7 @@
     },
     {
       "name": "lwjgl-3.3.2-natives-windows.jar",
-      "path": "https://extr-a.github.io/hosting/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows.jar",
       "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
       "size": 164993,
       "platform": [
@@ -367,25 +367,25 @@
     },
     {
       "name": "asm-analysis-9.10.1.jar",
-      "path": "https://extr-a.github.io/hosting/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar",
       "hash": "dede75a21306b65974ecd8f87114ff6970f09fb794157a4ca09ab25c888c2bfc",
       "size": 35140
     },
     {
       "name": "asm-tree-9.10.1.jar",
-      "path": "https://extr-a.github.io/hosting/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar",
       "hash": "3dfb0d5b6a106cd40b5b250e39935fbf2f927f4477546a5369a3ac609cf0506b",
       "size": 51958
     },
     {
       "name": "asm-9.10.1.jar",
-      "path": "https://extr-a.github.io/hosting/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar",
       "hash": "ed825d10ab1399c8c0cb669e688cf0c8c82629b4c8399b58352b68e92ca10fcb",
       "size": 126151
     },
     {
       "name": "slf4j-api-1.7.25.jar",
-      "path": "https://extr-a.github.io/hosting/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
       "size": 41203
     }
