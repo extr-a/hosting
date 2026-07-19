@@ -61,7 +61,7 @@ param=21=0
 param=25=239
 param=3=true
 param=8=true
-param=12=510
+param=12=1
 param=15=0
 param=5=33
 param=7=0
