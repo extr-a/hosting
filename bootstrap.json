@@ -1,10 +1,10 @@
 {
   "artifacts": [
     {
-      "name": "client-1.12.33-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.33-SNAPSHOT/client-1.12.33-SNAPSHOT.jar",
-      "hash": "901e4450d7e80f32d882691b9f4bf5ae9c5b7e8d66dbfdb88824feec56e62ede",
-      "size": 5692201
+      "name": "client-1.12.34-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.34-SNAPSHOT/client-1.12.34-SNAPSHOT.jar",
+      "hash": "c7564c215885adbc45df0a2cbdf0e6d0f231821cfc0a89a8dda96f16bff09c3a",
+      "size": 5704102
     },
     {
       "name": "aopalliance-1.0.jar",
@@ -127,14 +127,14 @@
       "size": 792432
     },
     {
-      "name": "injected-client-1.12.33-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.12.33-SNAPSHOT/injected-client-1.12.33-SNAPSHOT.jar",
-      "hash": "64bc5da98e5a9b10126a0228c4f41a21e8dd27f59abcb441bcfd3635e7f07fc7",
-      "size": 4238284
+      "name": "injected-client-1.12.34-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.12.34-SNAPSHOT/injected-client-1.12.34-SNAPSHOT.jar",
+      "hash": "a5516f09ca9df9b620b7022328535a590d2d0b4605c49dae8941ea32119c36e1",
+      "size": 4238285
     },
     {
-      "name": "jshell-1.12.33-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/jshell/1.12.33-SNAPSHOT/jshell-1.12.33-SNAPSHOT.jar",
+      "name": "jshell-1.12.34-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/jshell/1.12.34-SNAPSHOT/jshell-1.12.34-SNAPSHOT.jar",
       "hash": "f1eb1586e05231602da756fdef3a6af8cb5910cab81d6b227d88366e13a8b1a7",
       "size": 23093
     },
@@ -156,10 +156,10 @@
       ]
     },
     {
-      "name": "runelite-api-1.12.33-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/runelite-api/1.12.33-SNAPSHOT/runelite-api-1.12.33-SNAPSHOT.jar",
-      "hash": "a194a330c6c9b5aac1dfa5dc899147c5d86758e30f74f0b326ced5e060e28d42",
-      "size": 5301406
+      "name": "runelite-api-1.12.34-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/runelite-api/1.12.34-SNAPSHOT/runelite-api-1.12.34-SNAPSHOT.jar",
+      "hash": "7b9f855af1c783b92fad4532dcac095f1bd8bf1fc10e27e8e0503ebb3cb41355",
+      "size": 5300675
     },
     {
       "name": "jopt-simple-5.0.1.jar",
@@ -453,5 +453,5 @@
     "-XX:CompileThreshold=1500"
   ],
   "updates": [],
-  "version": "1.12.31.1"
+  "version": "1.12.33"
 }
