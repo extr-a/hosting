@@ -3,8 +3,8 @@
     {
       "name": "client-1.12.34-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.34-SNAPSHOT/client-1.12.34-SNAPSHOT.jar",
-      "hash": "c7564c215885adbc45df0a2cbdf0e6d0f231821cfc0a89a8dda96f16bff09c3a",
-      "size": 5704102
+      "hash": "7035f2946e037a1bade68c8d6582db0d334db0d1ecaafce34310cb836a39584d",
+      "size": 5718296
     },
     {
       "name": "aopalliance-1.0.jar",
@@ -129,8 +129,8 @@
     {
       "name": "injected-client-1.12.34-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.12.34-SNAPSHOT/injected-client-1.12.34-SNAPSHOT.jar",
-      "hash": "a5516f09ca9df9b620b7022328535a590d2d0b4605c49dae8941ea32119c36e1",
-      "size": 4238285
+      "hash": "28eaf1d0365b3d0cf191825077fb46a03baebf753ee02b3e0394eb0867d3a344",
+      "size": 4243753
     },
     {
       "name": "jshell-1.12.34-SNAPSHOT.jar",
