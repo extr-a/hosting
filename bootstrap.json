@@ -3,8 +3,8 @@
     {
       "name": "client-1.12.34-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.34-SNAPSHOT/client-1.12.34-SNAPSHOT.jar",
-      "hash": "a12ae7b498afca341d1f6a2843a0de0d74102ee3513e8a13dee5174eba4c7a11",
-      "size": 5717531
+      "hash": "07a8a2ecdfd850f5fb75fdaecf0798dbab6057f94d4e0f0f3c5aa96ef68715b3",
+      "size": 5717530
     },
     {
       "name": "aopalliance-1.0.jar",
