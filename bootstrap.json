@@ -1,10 +1,10 @@
 {
   "artifacts": [
     {
-      "name": "client-1.12.35-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.12.35-SNAPSHOT/client-1.12.35-SNAPSHOT.jar",
-      "hash": "225c3d51be68e2aa7d9cc8caa902cd9a3b0b5723779ba8ea80ff39212bc6dcb1",
-      "size": 4972891
+      "name": "client-1.13.2-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/client/1.13.2-SNAPSHOT/client-1.13.2-SNAPSHOT.jar",
+      "hash": "29602214a021240d192741aa4f7d73e25c832a8c6a354bbbfbc8a71bf7445905",
+      "size": 5005315
     },
     {
       "name": "aopalliance-1.0.jar",
@@ -103,10 +103,10 @@
       "size": 1729586
     },
     {
-      "name": "http-api-1.2.23.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/arn/http-api/1.2.23/http-api-1.2.23.jar",
-      "hash": "afefa5239fb6e437f93cc41c54f3030cf7b1663397a6b34f1bbe3065114c9b66",
-      "size": 40904
+      "name": "http-api-1.2.25.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/arn/http-api/1.2.25/http-api-1.2.25.jar",
+      "hash": "a334b96dba3a37bfeffda4481e86120ca933c7c983027fe23edb276c0c9199f6",
+      "size": 41139
     },
     {
       "name": "discord-1.4.jar",
@@ -127,14 +127,14 @@
       "size": 792432
     },
     {
-      "name": "injected-client-1.12.33.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.12.33/injected-client-1.12.33.jar",
-      "hash": "6876b8c64e15145b24b06ddf46695fc9270d6bcb216536d8d4d2c4ababef275e",
-      "size": 4238284
+      "name": "injected-client-1.13.2-20261007.140637-6.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/injected-client/1.13.2-20261007.140637-6/injected-client-1.13.2-20261007.140637-6.jar",
+      "hash": "f5364308262c7fc42309174c6a96d6129c7b82146be22c5935123b7ea8700a15",
+      "size": 4242123
     },
     {
-      "name": "jshell-1.12.35-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/jshell/1.12.35-SNAPSHOT/jshell-1.12.35-SNAPSHOT.jar",
+      "name": "jshell-1.13.2-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/jshell/1.13.2-SNAPSHOT/jshell-1.13.2-SNAPSHOT.jar",
       "hash": "f1eb1586e05231602da756fdef3a6af8cb5910cab81d6b227d88366e13a8b1a7",
       "size": 23093
     },
@@ -156,10 +156,10 @@
       ]
     },
     {
-      "name": "runelite-api-1.12.35-SNAPSHOT.jar",
-      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/runelite-api/1.12.35-SNAPSHOT/runelite-api-1.12.35-SNAPSHOT.jar",
-      "hash": "e9a8e1220d61bbd41ea3e9e4f521b828e47127bff151dc9e4b5252644f4b88f2",
-      "size": 5319063
+      "name": "runelite-api-1.13.2-SNAPSHOT.jar",
+      "path": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/net/runelite/runelite-api/1.13.2-SNAPSHOT/runelite-api-1.13.2-SNAPSHOT.jar",
+      "hash": "d3bc948aecf14200752044547d810f89824479ff6af9da29d52ff2ac51536baa",
+      "size": 5357773
     },
     {
       "name": "jopt-simple-5.0.1.jar",
@@ -392,6 +392,7 @@
   ],
   "clientJvm17Arguments": [
     "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,OWExplorer.dll,OWClient.dll,OWUtils.dll",
     "-Xmx768m",
     "-Xss2m",
     "-XX:CompileThreshold=1500",
@@ -409,7 +410,7 @@
   ],
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
-    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,OWExplorer.dll,OWClient.dll,OWUtils.dll",
     "-Xmx768m",
     "-Xss2m",
     "-XX:CompileThreshold=1500"
@@ -424,7 +425,7 @@
   "launcherJvm11WindowsArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm=true",
-    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,OWExplorer.dll,OWClient.dll,OWUtils.dll",
     "-Xmx768m",
     "-Xss2m",
     "-XX:CompileThreshold=1500"
@@ -447,11 +448,11 @@
   "launcherJvm17WindowsArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm=true",
-    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll,OWExplorer.dll,OWClient.dll,OWUtils.dll",
     "-Xmx768m",
     "-Xss2m",
     "-XX:CompileThreshold=1500"
   ],
   "updates": [],
-  "version": "1.12.33"
+  "version": "1.13.2-SNAPSHOT"
 }
