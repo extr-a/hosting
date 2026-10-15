@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "beta",
+  "versionCode": 24103009,
+  "versionName": "241.3",
+  "apkUrl": "https://raw.githubusercontent.com/extr-a/hosting/refs/heads/main/android/beta/chaotic-241.3-beta.apk",
+  "sha256": "34304a1b22ad53685b9d2aedf39b8351baff8612b8b2894483850f0063a2e9ec",
+  "bytes": 26415386,
+  "signingCertificateSha256": "7fc2148b13d8bdde1ed1d9b27a57feebee9003879909e52b6e9da885badda59c"
+}
