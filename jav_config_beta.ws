@@ -1,6 +1,6 @@
 title=Chaotic
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://57.128.179.36/
+codebase=http://104.129.132.14/
 cachedir=chaotic
 storebase=0
 initial_jar=gamepack_1630142.jar
@@ -65,6 +65,6 @@ param=12=1
 param=15=0
 param=5=33
 param=7=0
-param=17=http://57.128.179.36:8080/world_list.ws
+param=17=https://worlds.chaoticps.org/world_list.ws
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=18=
